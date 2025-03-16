@@ -1,3 +1,5 @@
+Site at: https://iamcapote.github.io/windows-95/
+
 # Windows 95 Theme for Jekyll
 
 ![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
