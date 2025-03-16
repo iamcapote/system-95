@@ -1,5 +1,5 @@
-permalink: /:year:month:day/:title
-url: https://iamcapote.github.io/windows-95/
+permalink: /:title/
+url: "https://iamcapote.github.io"
 baseurl: "/windows-95"
 
 # variables
@@ -23,5 +23,3 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : true
-    
- remote_theme: windows-95
