@@ -1,6 +1,6 @@
 permalink: /:title/
 url: "https://iamcapote.github.io"
-baseurl: ""
+baseurl: "/windows-95"
 
 # variables
 name: Your Site Name
