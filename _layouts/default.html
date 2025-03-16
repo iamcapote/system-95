@@ -22,7 +22,7 @@
 <body>
 	<div class="wrapper">
 		<div class="default_title">
-			<img src="/assets/img/mycomputer.png" />
+			<img src="{{ site.baseurl }}/assets/img/mycomputer.png" />
 			{% if page.tag %}
 				<h1>{{ page.tag }}</h1>
 			{% else %}
@@ -32,7 +32,7 @@
 		{% include topbar.html %}
 		<div class="tag_list">
 			<ul id="tag-list">
-				<li><a href="{{ site.baseurl }}/" ><img src="/assets/img/disk.png" />(C:)</a>
+				<li><a href="{{ site.baseurl }}/" ><img src="{{ site.baseurl }}/assets/img/disk.png" />(C:)</a>
 			<ul>
 				{% assign tags = site.tags | sort %}
 				{% for tag in tags %}
@@ -73,7 +73,7 @@
 	{% if page.title %}
         <div class="content">
 			<div class="post_title">
-				<img src="/assets/img/file.png" />
+				<img src="{{ site.baseurl }}/assets/img/file.png" />
 				<h1>{{  page.title  }}</h1>
 				<a href="/"><div class="btn"><span class="fa fa-times"></span></div></a>
 				<div class="btn btn_max"><span class="fa fa-window-maximize"></span></div>
@@ -90,8 +90,8 @@
 			</div>
 		</div>
     {% endif %}
-	<script src="/assets/js/001.js"></script>
-	<script src="/assets/js/002.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/001.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/002.js"></script>
 	<div class="footer">
 		<p>Created by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a></p>
 	</div>
