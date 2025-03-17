@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Decentralized Finance (DeFi) Learning Resources"
-tags: tag1 tag2 tag3 tag4 defi
+title: "DeFi Learning Resources"
+tags: defi
 ---
 
 # Decentralized Finance (DeFi) Learning Resources
