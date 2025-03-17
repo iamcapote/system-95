@@ -302,3 +302,4 @@ Informal resources can make learning more engaging and help you stay updated:
 
 - [Awesome Bioinformatics Education on GitHub](https://github.com/lskatz/awesome-bioinformatics-education)
 - [DIY Bioinformatics Student Free Tools and Resources for Self-Starters](https://omicstutorials.com/the-diy-bioinformatics-student-free-tools-and-resources-for-self-starters/#:~:text=,based%20platform%20for%20accessible)
+- [SNPedia - SNPedia is a wiki investigating human genetics](https://www.snpedia.com/index.php/SNPedia)
