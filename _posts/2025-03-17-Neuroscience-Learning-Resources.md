@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Neuroscience Learning Resources"
-tags: tag1 tag2 tag3 tag4 neuro
+tags: neuro
 ---
 
 
