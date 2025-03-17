@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "SynBio"
-tags: tag1 tag2 tag3 tag4 synbio
+title: "SynBio Learning Resources"
+tags: synbio
 ---
 
 
