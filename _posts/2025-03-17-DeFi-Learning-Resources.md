@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "DeFi Learning Resources"
+title: "defi_resources"
 tags: defi
 ---
 
