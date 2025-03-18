@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Bioinformatics Learning Resources"
+title: "bioinfo_resources"
 tags: bioinfo
 ---
 
