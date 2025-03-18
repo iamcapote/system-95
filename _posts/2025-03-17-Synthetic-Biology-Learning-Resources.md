@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "SynBio Learning Resources"
+title: "synbio_resources"
 tags: synbio
 ---
 
