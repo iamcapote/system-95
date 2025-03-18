@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Systems Science Learning Resources"
+title: "systems_resources"
 tags: syssci
 ---
 
