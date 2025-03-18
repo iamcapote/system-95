@@ -1,4 +1,4 @@
-Site at: https://iamcapote.github.io/windows-95/
+Site at: https://iamcapote.github.io/system-95/
 
 # Windows 95 Theme for Jekyll
 
