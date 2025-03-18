@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Neuroscience Learning Resources"
+title: "neuro_resources"
 tags: neuro
 ---
 
