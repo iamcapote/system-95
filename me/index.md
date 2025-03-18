@@ -31,8 +31,9 @@ We design, research, and build **resilient, scalable, and adaptive systems** at 
 
 We work with **DAOs, research labs, and protocols** to apply **scientific methodologies** to **Web3 infrastructure, decentralized governance, and emerging biotech systems**.
 
-We believe that the future of cryptocurrencies lies not only in **cutting-edge technology** but also in the **boundless creativity and ingenuity of people**.  
-Our mission is to unlock that potential through **tailored solutions and forward-thinking strategies**.
+---
+
+We believe that the future of cryptocurrencies lies not only in **cutting-edge technology** but also in the **boundless creativity and ingenuity of people**. Our mission is to unlock that potential through **tailored solutions and forward-thinking strategies**.
 
 ### **What We Offer**  
 ✔️ **Research** → In-depth technical and market analysis to guide decision-making  
